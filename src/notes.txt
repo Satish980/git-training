@@ -1,0 +1,4 @@
+feat_feature
+fix_feature
+hotfix_feature
+chores_feature
